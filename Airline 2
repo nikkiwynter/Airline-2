@@ -1,0 +1,14 @@
+#include <iostream>
+
+Using namespace std;
+
+//if statements
+//int num1, num2
+
+int main ()
+{
+ Cin <<num1, $35;
+ Cin <<num2, $45;
+ Cout <<"num1 + num2" ;
+
+}
